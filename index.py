@@ -4,7 +4,7 @@ def func():
     a = str(input('Adinizi daxil edin: '))
 
 def salamlama():
-    print(f"Xos gelmisiniz, {a}")
+    print(f"Xos gelmisiniz, u{a}")
 
 func()
 salamlama()
